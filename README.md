@@ -1,2 +1,2 @@
-# Goob
-A Porfolio
+Goob
+A Porfolio by Robin Vergara
