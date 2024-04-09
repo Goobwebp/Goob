@@ -7,7 +7,11 @@ body {
     background: #111111;
 }
 
-
+.socmed a {
+    text-decoration: none; /* Remove the underline */
+    color: black; /* Set the color of the link */
+    letter-spacing: 10px;
+  }
 hr{
 width: 50%; /* Set the width of the <hr> */
   margin: 1px auto; /* Add margin to adjust spacing */
